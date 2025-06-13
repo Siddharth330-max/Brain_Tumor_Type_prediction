@@ -21,6 +21,7 @@ There are 4 classes in this dataset -: glioma , meningioma , pitutary aand no tu
 6.requiremets.txt -: Contains required libraries 
 
 **How to run this app**
+
 Clone the repo -: git clone https://github.com/Siddharth330-max/Brain_Tumor_Type_prediction.git  
 
 In your terminal -:
